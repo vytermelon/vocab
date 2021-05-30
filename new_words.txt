@@ -1,0 +1,8 @@
+##############TITLE##################
+#Format to be used
+#(word1):meaning1
+#(word2):meaning2
+#Paragraph using the above words
+#Start
+
+
